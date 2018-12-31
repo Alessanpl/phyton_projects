@@ -15,7 +15,7 @@ import pandas as pd
 # Modulo para manipulação de datas
 import datetime as dt
 
-pasta = "/Users/Alessanpl 1/PhytonFundAle/Ferramentas de Script/Enviar teste de Belbin/"
+pasta = "/Users/Alessanpl/PhytonFundAle/repositorio/teste_belbin/"
 
 # Envia e-mail simples
 def EnviaEmailTodosAlunos(assunto, de, para, aluno, mensagem):
